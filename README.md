@@ -59,6 +59,5 @@ I also work as a FreeLancer 🆓.
 [gmail]: mailto:kadirbugrakkus@gmail.com
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[php]: https://www.php.com/
 [github]: https://github.com/Kadirbugrakkus
 [python]: https://www.python.org/
