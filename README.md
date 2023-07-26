@@ -3,7 +3,7 @@
   <img align="right" alt="GIF" src="https://github.com/Kadirbugrakkus/Kadirbugrakkus/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
 
-<h3 align="center">I'm a Backend Developer 🚀, Poet ✍, and Photographer 👨‍🎓!</h3>
+<h3 align="center">I'm a Student 👨‍🎓, Full Stack Developer 🚀, Poet ✍, and Photographer 👨‍🎓!</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kadirbugrakkus&label=Profile%20views&color=0e75b6&style=flat" alt="kadirbugrakkus" />
 </p>
@@ -23,9 +23,9 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin-black.svg" />][linkedin]
 
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram-black.svg" />][instagram]
 
 <br />
 <br />
