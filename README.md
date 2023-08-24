@@ -3,7 +3,7 @@
   <img align="right" alt="GIF" src="https://github.com/Kadirbugrakkus/Kadirbugrakkus/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
 
-<h3 align="center">A Passionate Backend Developer 🚀 and Avid Photographer 📸!</h3>
+<h3 align="center">A Passionate Backend Developer 🚀 </h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kadirbugrakkus&label=Profile%20views&color=0e75b6&style=flat" alt="kadirbugrakkus" />
 </p>
