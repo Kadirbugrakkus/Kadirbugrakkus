@@ -18,7 +18,7 @@
 - 🌱 Forever curious and always learning something new.
 - 👯 Open to collaborating with fellow Laravel enthusiasts 👩‍💻 and creative mobile/web app designers 🎨
 - 🤔 Seeking guidance and knowledge in advanced Laravel backend development.
-- 🥅 2022 Goals: Building a world-reaching app 🌎 and diving into the realm of artificial intelligence 🤖
+- 🥅 2024 Goals: Building a world-reaching app 🌎 and diving into the realm of artificial intelligence 🤖
 - ⚡ Fun fact: I'm a swimmer 🏊‍♀️, chess player ♟, soccer enthusiast ⚽, and cycling lover 🚴‍♀️
 
 ### Currently in Action:
