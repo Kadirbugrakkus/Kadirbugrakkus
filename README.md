@@ -1,30 +1,57 @@
-<h1 align="center">Hello there, I'm Kadir Buğra Akkuş 👋</h1>
-<p align="center">
-  <img align="right" alt="GIF" src="https://github.com/Kadirbugrakkus/Kadirbugrakkus/blob/main/code.gif?raw=true" width="500" height="320" />
-</p>
+# Kadir Buğra Akkuş
 
-<h3 align="center">A Backend Developer 🚀 </h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kadirbugrakkus&label=Profile%20views&color=0e75b6&style=flat" alt="kadirbugrakkus" />
-</p>
+**Backend Developer · .NET Core · Distributed Systems · API Design**
 
-<div align="center">
-  <a href="https://twitter.com/kadirbugrakkus" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/kadirbugrakkus?style=social"></a>
-  <a href="https://linkedin.com/in/kadirbugrakkus" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="https://www.instagram.com/kadirbugrakkus/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-orange"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kadirbugrakkus-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadirbugrakkus)
+[![Twitter](https://img.shields.io/badge/Twitter-@kadirbugrakkus-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kadirbugrakkus)
 
-- 🔭 Currently crafting code with Laravel and building robust APIs.
-- 🌱 Forever curious and always learning something new.
-- 👯 Open to collaborating with fellow Laravel enthusiasts 👩‍💻 and creative mobile/web app designers 🎨
-- 🤔 Seeking guidance and knowledge in advanced Laravel backend development.
-- 🥅 2024 Goals: Building a world-reaching app 🌎 and diving into the realm of artificial intelligence 🤖
-- ⚡ Fun fact: I'm a swimmer 🏊‍♀️, chess player ♟, soccer enthusiast ⚽, and cycling lover 🚴‍♀️
+---
 
-### Currently in Action:
-- Crafting a personal project with passion 🚀
-- Penning thoughts on 2 different platforms 📃
-- Programming enthusiast, always learning as a student 💻
-- Embracing freelancing as a way of life 🆓
+## About
 
-Remember, coding is poetry and every snapshot tells a story! 📚📸
+Backend developer focused on building scalable, maintainable systems with .NET Core. I work on the full lifecycle of server-side applications — from architecture decisions and API design to deployment and performance tuning.
+
+Currently transitioning from a Laravel background into the .NET ecosystem, with a focus on writing production-grade code that holds up under real-world conditions.
+
+---
+
+## Technical Stack
+
+**Primary**
+- ASP.NET Core · C# · Entity Framework Core · LINQ
+- RESTful API Design · Clean Architecture · CQRS
+
+**Data**
+- PostgreSQL · Microsoft SQL Server · Redis
+
+**Infrastructure & Tooling**
+- Docker · Git · CI/CD pipelines
+- Linux environments · Nginx
+
+**Currently deepening knowledge in**
+- MediatR & the mediator pattern
+- Message brokers (RabbitMQ)
+- Domain-Driven Design (DDD)
+
+---
+
+## Focus Areas
+
+- Clean, testable code over clever code
+- API contracts that are stable and well-documented
+- Understanding the *why* behind architectural patterns, not just the implementation
+- Writing software that the next developer (or future me) can actually work with
+
+---
+
+## Currently
+
+- Building a personal backend project to explore DDD and event-driven architecture in .NET
+- Studying for relevant .NET and cloud certifications
+- Open to freelance backend work and technical collaborations
+
+---
+
+## Contact
+
+Reach me via [LinkedIn](https://linkedin.com/in/kadirbugrakkus) for professional inquiries or collaborations.
